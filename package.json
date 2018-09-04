@@ -1,0 +1,21 @@
+{
+	"name": "chinese-s2t",
+	"version": "1.0.0",
+	"description": "中文简转繁，繁转简",
+	"main": "index.js",
+	"homepage": "",
+	"scripts": {
+		"test": ""
+	},
+	"repository": {
+		"type": "git",
+		"url": ""
+	},
+	"keywords": [
+		"chinese"
+	],
+
+	"license": "MIT",
+
+	"readmeFilename": "README.md"
+}
